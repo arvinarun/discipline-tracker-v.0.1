@@ -27,4 +27,4 @@ Future Improvements
 ## How to Play / Run
 Clone the repository:  
 ```bash
-git clone https://github.com/arvinarun/discipline-tracker.git
+git clone https://github.com/arvinarun/discipline-tracker-v.0.1.git
