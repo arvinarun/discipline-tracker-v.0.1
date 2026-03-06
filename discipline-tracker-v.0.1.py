@@ -1,5 +1,4 @@
 print("🖤 Discipline Tracker 🖤")
-
 name = input("What do I call you? ")
 
 score = 0
@@ -81,3 +80,4 @@ print("Rank:", rank)
 # Reflection
 reflection = input("\nWhat is ONE thing you'll improve tomorrow? ")
 print("Good. Improve daily. 🖤")
+
