@@ -21,7 +21,7 @@ Future Improvements
 - Track discipline streaks
 - Add more custom habits
 - Visual progress tracking
-- 
+  
 ---
 
 ## How to Play / Run
