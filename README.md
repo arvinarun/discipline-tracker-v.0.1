@@ -1,24 +1,30 @@
-🖤 Discipline Tracker 🖤  
-A simple Python program that tracks your daily discipline habits and gives you a score based on your actions.
+# 🖤 Discipline Tracker 🖤
+A mini interactive Python program that helps you track your daily discipline habits and calculate a score based on your actions.
 
-“Small actions repeated daily create unstoppable discipline.” 🔥
+*"Discipline is built one action at a time."* 🔥
 
-Features
-- Interactive terminal-based habit tracker
-- Positive habits that earn points
-- Negative habits that reduce points
+---
+
+## Features
+- Interactive terminal-based Python program
+- Tracks positive habits that earn discipline points
+- Tracks negative habits that reduce points
 - Custom habit option for personalization
-- Daily summary of completed and skipped habits
-- Discipline score and rank system
-- Reflection prompt for self-improvement
+- Daily discipline score and rank system
+- Summary of completed and skipped habits
+- Beginner-friendly code, easy to read and expand
 
-How to Run
-Clone the repository:
-
-git clone https://github.com/arvinarun/discipline-tracker.git
+---
 
 Future Improvements
 - Save scores to a file
 - Track discipline streaks
 - Add more custom habits
 - Visual progress tracking
+- 
+---
+
+## How to Play / Run
+Clone the repository:  
+```bash
+git clone https://github.com/arvinarun/discipline-tracker.git
